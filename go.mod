@@ -14,6 +14,7 @@ require (
 	github.com/ikawaha/kagome-dict/ipa v1.0.2
 	github.com/ikawaha/kagome/v2 v2.4.4
 	github.com/kennygrant/sanitize v1.2.4 // indirect
+	github.com/pytorchtw/go-batch-crawler v0.0.0-20200221082902-fa41edaf4d57 // indirect
 	github.com/saintfish/chardet v0.0.0-20120816061221-3af4cd4741ca // indirect
 	github.com/temoto/robotstxt v1.1.1 // indirect
 	golang.org/x/net v0.0.0-20200813134508-3edf25e44fcc

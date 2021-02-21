@@ -5,7 +5,7 @@ import (
 	"errors"
 	"github.com/antchfx/htmlquery"
 	"github.com/gocolly/colly"
-	batch_crawler "github.com/scottapp/go-batch-crawler"
+	batch_crawler "github.com/pytorchtw/go-batch-crawler"
 	"github.com/scottapp/misuchiru-server/handlers"
 	"github.com/scottapp/misuchiru-server/utils"
 	"io"
@@ -352,8 +352,8 @@ func main() {
 	// 1
 	//crawler.Queue.AddURL("http://blog.xuite.net/lyricbox/2601/21361450")
 
-	crawler.Run()
-	saveAlbumsJson(respHandler.Result)
+	//crawler.Run()
+	//saveAlbumsJson(respHandler.Result)
 
 	log.Println("running time: " + time.Since(start).String())
 }
