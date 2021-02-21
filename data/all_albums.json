@@ -1,0 +1,140 @@
+{
+ "Albums": {
+  "1/42": {
+   "ID": 8,
+   "URL": null,
+   "Name": "1/42",
+   "SongByName": null,
+   "URLIDTable": null
+  },
+  "Atomic Heart": {
+   "ID": 4,
+   "URL": null,
+   "Name": "Atomic Heart",
+   "SongByName": null,
+   "URLIDTable": null
+  },
+  "B-SIDE": {
+   "ID": 14,
+   "URL": null,
+   "Name": "B-SIDE",
+   "SongByName": null,
+   "URLIDTable": null
+  },
+  "BOLERO": {
+   "ID": 6,
+   "URL": null,
+   "Name": "BOLERO",
+   "SongByName": null,
+   "URLIDTable": null
+  },
+  "DISCOVERY": {
+   "ID": 7,
+   "URL": null,
+   "Name": "DISCOVERY",
+   "SongByName": null,
+   "URLIDTable": null
+  },
+  "EVERYTHING": {
+   "ID": 1,
+   "URL": null,
+   "Name": "EVERYTHING",
+   "SongByName": null,
+   "URLIDTable": null
+  },
+  "HOME": {
+   "ID": 13,
+   "URL": null,
+   "Name": "HOME",
+   "SongByName": null,
+   "URLIDTable": null
+  },
+  "I ♥ U": {
+   "ID": 12,
+   "URL": null,
+   "Name": "I ♥ U",
+   "SongByName": null,
+   "URLIDTable": null
+  },
+  "It's a Wonderful World": {
+   "ID": 10,
+   "URL": null,
+   "Name": "It's a Wonderful World",
+   "SongByName": null,
+   "URLIDTable": null
+  },
+  "Kind of Love": {
+   "ID": 2,
+   "URL": null,
+   "Name": "Kind of Love",
+   "SongByName": null,
+   "URLIDTable": null
+  },
+  "Q": {
+   "ID": 9,
+   "URL": null,
+   "Name": "Q",
+   "SongByName": null,
+   "URLIDTable": null
+  },
+  "REFLECTION": {
+   "ID": 18,
+   "URL": null,
+   "Name": "REFLECTION",
+   "SongByName": null,
+   "URLIDTable": null
+  },
+  "SENSE": {
+   "ID": 16,
+   "URL": null,
+   "Name": "SENSE",
+   "SongByName": null,
+   "URLIDTable": null
+  },
+  "Supermarket Fantasy": {
+   "ID": 15,
+   "URL": null,
+   "Name": "Supermarket Fantasy",
+   "SongByName": null,
+   "URLIDTable": null
+  },
+  "Versus": {
+   "ID": 3,
+   "URL": null,
+   "Name": "Versus",
+   "SongByName": null,
+   "URLIDTable": null
+  },
+  "[(an imitation) blood orange]": {
+   "ID": 17,
+   "URL": null,
+   "Name": "[(an imitation) blood orange]",
+   "SongByName": null,
+   "URLIDTable": null
+  },
+  "シフクノオト": {
+   "ID": 11,
+   "URL": null,
+   "Name": "シフクノオト",
+   "SongByName": null,
+   "URLIDTable": null
+  },
+  "深海": {
+   "ID": 5,
+   "URL": null,
+   "Name": "深海",
+   "SongByName": null,
+   "URLIDTable": null
+  },
+  "重力と呼吸": {
+   "ID": 19,
+   "URL": null,
+   "Name": "重力と呼吸",
+   "SongByName": null,
+   "URLIDTable": null
+  }
+ },
+ "SongByName": null,
+ "SongByURL": null,
+ "AlbumByID": null
+}

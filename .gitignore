@@ -13,3 +13,11 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+#lockfiles
+package-lock.json
+yarn.lock
+
+.idea/
+log/
+private_note.txt
